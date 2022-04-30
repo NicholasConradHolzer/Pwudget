@@ -1,0 +1,11 @@
+{
+    "name": "Pwudget",
+    "short_name": "Pwudge",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "description": "An app that allows you to track your budget."
+  }
